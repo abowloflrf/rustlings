@@ -21,4 +21,4 @@
 | threads                | §16.1        |    ✅    |
 | macros                 | §19.6        |    ✅    |
 | clippy                 | n/a          |    ✅    |
-| conversions            | n/a          |          |
+| conversions            | n/a          |    ✅    |
